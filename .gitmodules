@@ -1,0 +1,3 @@
+[submodule "src/sample-go"]
+	path = src/sample-go
+	url = https://github.com/shipwright-io/sample-go
